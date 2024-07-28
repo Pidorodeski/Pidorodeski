@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pidorodeski&label=Profile%20views&color=0e75b6&style=flat" alt="pidorodeski" /> </p>
 
-- 🔭 I’m currently working as a **Quality Assurance and Automation Analyst with Cypress**
+- 🔭 I’m currently working as a **Quality Assurance and Automation Analyst with Cypress on Totvs**
 
 - 🌱 I’m currently learning **Angular, Cypress, back-end development with Node.js, NestJS, Express, and MongoDB **
 
